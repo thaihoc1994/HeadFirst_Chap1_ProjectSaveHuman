@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HOCHNT-PC</Machine>
+    <WindowsUser>hochnt</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d4735bc6-6d90-441a-a320-d3c100ed42d8</PackageIdentityName>
+    <RegisteredManifestChecksum>91E936647E2626764C4F2E2A90CA068B8845634F93225DB96B851B74EB6220D6</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d4735bc6-6d90-441a-a320-d3c100ed42d8_1.0.0.0_neutral__me5vp7dbnyeg8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d4735bc6-6d90-441a-a320-d3c100ed42d8_me5vp7dbnyeg8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d4735bc6-6d90-441a-a320-d3c100ed42d8</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=hochnt</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Hoc\GITHUB\C#\Chap1_Project1_SaveTheHumans\Chap1_Project1_SaveTheHumans\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-25T08:41:56.393</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Hoc\GITHUB\C#\Chap1_Project1_SaveTheHumans\Chap1_Project1_SaveTheHumans\bin\Release\Chap1_Project1_SaveTheHumans.exe">
+      <PackagePath>Chap1_Project1_SaveTheHumans.exe</PackagePath>
+      <Modified>2016-07-25T08:47:01.071</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hoc\GITHUB\C#\Chap1_Project1_SaveTheHumans\Chap1_Project1_SaveTheHumans\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-25T08:29:07.276</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hoc\GITHUB\C#\Chap1_Project1_SaveTheHumans\Chap1_Project1_SaveTheHumans\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-25T08:29:31.323</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hoc\GITHUB\C#\Chap1_Project1_SaveTheHumans\Chap1_Project1_SaveTheHumans\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-25T08:24:52.025</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hoc\GITHUB\C#\Chap1_Project1_SaveTheHumans\Chap1_Project1_SaveTheHumans\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-25T08:27:53.185</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hoc\GITHUB\C#\Chap1_Project1_SaveTheHumans\Chap1_Project1_SaveTheHumans\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2016-07-25T03:06:07.424</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hoc\GITHUB\C#\Chap1_Project1_SaveTheHumans\Chap1_Project1_SaveTheHumans\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-07-25T08:41:55.785</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hoc\GITHUB\C#\Chap1_Project1_SaveTheHumans\Chap1_Project1_SaveTheHumans\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-07-25T08:41:55.787</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hoc\GITHUB\C#\Chap1_Project1_SaveTheHumans\Chap1_Project1_SaveTheHumans\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-07-25T08:41:56.202</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
